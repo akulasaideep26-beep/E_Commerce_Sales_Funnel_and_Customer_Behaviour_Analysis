@@ -31,7 +31,7 @@ This project analyzes e-commerce customer behaviour and purchasing patterns usin
 5. Hourly Customer Behaviour Heatmap
 
 ## Project Notebook
-[View the Jupyter Notebook](E-Commerce_Sales_Funnel_and_Customer_Behaviour_Analysis.ipynb)
+[View the Jupyter Notebook](E_Commerce_Sales_Funnel_and_Customer_Behaviour_Analysis.ipynb)
 
 ## Key Learnings
 - Data cleaning and preprocessing
